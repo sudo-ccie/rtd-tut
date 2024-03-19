@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Sudo-CCIE'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
